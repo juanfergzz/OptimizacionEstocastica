@@ -1,6 +1,7 @@
 Equipo 7: Optimización Estocástica
 
 Miembros del equipo: 
+
 Juan Fernando González Cervantes A01571586 
 
 Jorge Eduardo Avila Montoya A01410275
